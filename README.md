@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Chimere 👋
 
-<!--
-**Onyejemechimere/Onyejemechimere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech-enthusiastic biologist, digital marketer, and community builder.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- 🔬 Bioinformatics & Data Science
+- 🌍 Founder, TechCrayon – Amplifying African innovation
+- 🧠 Node.js | Express | Python | R
+- 📱 Digital Marketing & Web PR (Flutterwave, Guinness, Bolt, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Current Projects
+- QR Code Generator (Node.js + Express)
+- Building Afroinformatics, an infomatics software empowering African researchers with accessible tools for science, health, and agriculture.
+- TechCrayon – Helping startups go global
+
+## 🎓 Academic Background
+- B.Tech Biological Sciences – FUTO
+- Aspiring MSc/PhD in Bioinformatics, Computational Biology & Genomics
+
+## 🧠 Interests
+Bioinformatics | Molecular Biology | Coding for Biology | Digital Strategy | Conservation | Youth Empowerment | Volunteering
+
+## 🌐 Let's Connect
+- [Twitter](https://twitter.com/iam_drift_king)
+- [LinkedIn](linkedin.com/in/onyejeme-philemon-chimere)
+- [Portfolio](https://driftkingsmedia.com)
